@@ -1,0 +1,89 @@
+[[Xorg_xineramaproto]]
+arch = "armv7l"
+git-tree-sha1 = "adf967a8fe7f77c81773c7af922c37f8a60e135f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "b458185884cfa5b1b43f35274e975150cc301ff5d077d4e823ae6300b2a5333f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.arm-linux-gnueabihf.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "aarch64"
+git-tree-sha1 = "296d7bf1e43e523821e4f8e0f6c7d38de202f7ed"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "d85dab1531a0e27d4821b10f7d0d5f2459782e664473bfbf7fd80f3b22ac964f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.aarch64-linux-musl.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "i686"
+git-tree-sha1 = "b7f4a34232cf778d19ace612e74f70f10ffcad12"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "691ff3fb7bcd2bb364d38ecad68e3b247efd3b81a20202ae541f8a323bbec2b3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.i686-linux-musl.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "i686"
+git-tree-sha1 = "770126ebcf67a491155c7ab5576949fa6fc2baf9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "07b926ce7fcfd9b0922abf75fdc227a3989f9f576b3ed9aeb80b673cb0c7630b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.i686-linux-gnu.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "x86_64"
+git-tree-sha1 = "13ac327d593639a31b000abcb7f0ddfed9302eea"
+os = "freebsd"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "29135c0a74f8ee35c16801a369532a82051ace46fdb51cea80fc00cfdb38c28d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "cb64708b0667ed4bc3ff46270af63fb58d638962"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "719fa877ad8e73264cd3d4862bdea7db57f5f0c9f72d76088e576cc791b95320"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "armv7l"
+git-tree-sha1 = "e2db919e64ca56e0b560938d7623705dd0285478"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "4f94e3a7bf7c9a6c3b4f7fcb1b605d6b645614015215ca9a1dfa537bd32a4bd6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.arm-linux-musleabihf.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "aarch64"
+git-tree-sha1 = "425057b23b582670a908c366b1f67cc9f18d8edc"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "6da9d458f4303896eb2e15c84c52382b8f40ed6854d478feaa32542a496e90a2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.aarch64-linux-gnu.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "x86_64"
+git-tree-sha1 = "4ed4e6caa3c4559f34d9eafd2f42e9863f83b573"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "583ade1d3def0287ea590e021245838f18254dcad5374a8dcdd64e5e835a6a72"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.x86_64-linux-gnu.tar.gz"
+[[Xorg_xineramaproto]]
+arch = "x86_64"
+git-tree-sha1 = "f145375387538a053e0c22eea6634b6ded5c5d93"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xineramaproto.download]]
+    sha256 = "e99d8a321bf47eae0d566b4994fa5188c9a9311455991ab90f84fabcabec4f2c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xineramaproto_jll.jl/releases/download/Xorg_xineramaproto-v1.2.1+0/Xorg_xineramaproto.v1.2.1.x86_64-linux-musl.tar.gz"
